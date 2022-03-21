@@ -1,6 +1,3 @@
-import { useState } from 'react'
-import logo from './logo.svg'
-import './App.css'
 import { useD3 } from './hooks'
 import * as d3 from 'd3';
 
