@@ -1,6 +1,7 @@
 # Backend
 running the backend
 ```bash
+# make sure you're in the ./backend folder
 # run Jupyter notebook
 python3 -m notebook # this is how I do it, windows users may have an exe to run
 ```
@@ -16,6 +17,9 @@ python3 -m notebook # this is how I do it, windows users may have an exe to run
 ![surgical-software-frontend-demo.png](<./surgical-software-frontend-demo.png>)
 
 ```bash
+# make sure you're in the ./frontend folder
+# install dependencies 
+npm i
 # run the dev server
 npm run dev
 ```
