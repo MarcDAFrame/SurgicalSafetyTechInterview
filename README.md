@@ -14,7 +14,7 @@ python3 -m notebook # this is how I do it, windows users may have an exe to run
 
 
 # Frontend
-![surgical-software-frontend-demo.png](<./surgical-software-frontend-demo.png>)
+![surgical-software-frontend-demo.png](<./demo.png>)
 
 ```bash
 # make sure you're in the ./frontend folder
