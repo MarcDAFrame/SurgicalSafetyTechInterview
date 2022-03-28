@@ -44,4 +44,4 @@ npm i
 npm run dev
 ```
 
-or visit [https://sst.mframe.ca](https://sst.mframe.ca)
+or visit [https://sst-grid.mframe.ca](https://sst-grid.mframe.ca)
