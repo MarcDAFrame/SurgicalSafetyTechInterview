@@ -32,3 +32,16 @@ npm run dev
     - some other D3.js project of mine can be seen here
         - https://ttc.baicanalytics.io/
         - https://subwaysim.mframe.ca/
+
+
+# Frontend 2 - Grid Challenge
+
+```bash
+# make sure you're in the ./frontend folder
+# install dependencies 
+npm i
+# run the dev server
+npm run dev
+```
+
+or visit [https://sst.mframe.ca](https://sst.mframe.ca)
